@@ -80,6 +80,7 @@ The list of constributors can be found [there](https://github.com/sebcrozet/nalg
 * Adam Rzepka
 * Anselm Eickhoff
 * Alexander Atman
+* Andre Braga Reis
 * Camille Viot
 * Jac
 * Jack Wrenn
@@ -92,9 +93,11 @@ The list of constributors can be found [there](https://github.com/sebcrozet/nalg
 * Kasper Møller Andersen
 * Kyle Gretchev
 * Kjetil Kjeka
+* Leonard Dahlmann
 * Mark Stacey
 * Nerijus Arlauskas
 * Olivier Saut
+* Paul Houghton
 * Rick Richardson
 * Sanghyeon Seo
 * Simon N Heath
